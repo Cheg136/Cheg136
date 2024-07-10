@@ -2,8 +2,7 @@
 -  I’m interested in making cool shit.
 -  I’m currently learning way too much math.
 -  How to reach me: gilperkins01@outlook.com
--  Pronouns: Toaster/Toasterself
--  Fun fact: no
+-  Pronouns: Attack/Helicopter
 
 <!---
 Cheg136/Cheg136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
