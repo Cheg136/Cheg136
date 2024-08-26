@@ -2,7 +2,6 @@
 -  I’m interested in making cool projects and just furthering my own learning.
 -  I’m currently learning way too much math.
 -  How to reach me: gilperkins01@outlook.com
--  Pronouns: Attack/Helicopter
 
 <!---
 Cheg136/Cheg136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
